@@ -1,4 +1,4 @@
 -   👋 Hi, I’m Dyeuse a front-end web developer.
 -   💞️ I'm beginnig a new adventure in the digital world !
 -   🌱 I’m currently making my portfolio.
--   👀 Feel free to take a look at my first two public projects.
+-   👀 Feel free to take a look at my first public projects.
